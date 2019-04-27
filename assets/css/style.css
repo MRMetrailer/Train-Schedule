@@ -1,0 +1,21 @@
+.jumbotron {
+    background: url('../images/Map.jpg');
+    background-size: 100%;
+}
+
+body {
+	background: url('../images/ecailles.png');
+}
+
+h1 {
+    font-family: 'Notable', sans-serif;
+}
+
+h3 {
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+th {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
