@@ -9,3 +9,5 @@ This is useful for users to determine when their next train will be arriving and
 To get started, the user simply inputs information in the input boxes at the bottom of the page. After inputing their information, the train schedule program will determine the next time a particular train will arrive and how long they must wait for that trian to arrive.
 
 I am the sole person responsible for contributing to and maintaining this program.
+
+https://mrmetrailer.github.io/Train-Schedule/
